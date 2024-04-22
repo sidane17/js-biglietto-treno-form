@@ -4,6 +4,7 @@ document.getElementById("submit").onclick = function(){
     let a = document.getElementById("km").value;
     let b = document.getElementById("eta").value;
     let k = document.getElementById("nome").value
+    
 
     console.log(a)
     console.log(b)
